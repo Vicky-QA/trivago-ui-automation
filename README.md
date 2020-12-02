@@ -1,0 +1,1 @@
+# trivago-ui-automation
